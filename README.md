@@ -28,7 +28,7 @@ A stylish and modern animated card effect using pure HTML & CSS. This hover effe
 
 ## 🚀 Live Demo
 
-Watch it on YouTube: [Click Here](https://youtu.be/PVWkcR0zM1Y)
+Watch it on YouTube: [Click Here](https://www.youtube.com/watch?v=Hiu7r6XqmYA)
 
 ## 📂 Source Code
 
